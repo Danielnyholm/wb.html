@@ -61,6 +61,7 @@ background: white;
     margin-left: 30%;
     min-width: 500px;
     margin-bottom: 50px;
+    text-align: center;
 }
 
 .flexbox-item2 {height: 100px;
