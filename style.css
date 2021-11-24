@@ -1,0 +1,131 @@
+.flexbox-container-1 {
+    display: flex;
+    
+    width: 100%;
+    background-color:burlywood;
+}
+    
+.flexbox-container-2 { 
+    display: flex;
+    background-color: rgb(0, 255, 13);
+    justify-content: space-around;
+} 
+.flexbox-container-3 {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(0, 255, 13);
+    
+}
+.flexbox-container-4 {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(0, 255, 13);
+}
+.flexbox-container-5 {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(0, 255, 13);
+}
+.flexbox-container-6 {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(0, 255, 13);
+}
+.flexbox-container-7 {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(0, 255, 13);
+    
+}
+
+.flexbox-item {
+    
+    width: 300px;
+    height: 100px;
+    margin-top:     10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 3px solid #000;
+    background-color: #dfdfdf;
+background: white;
+}
+
+.flexbox-item11 {
+    justify-self: flex-start;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 50px;
+    
+}
+.flexbox-item12 {
+    margin-left: 30%;
+    min-width: 500px;
+    margin-bottom: 50px;
+}
+
+.flexbox-item2 {height: 100px;
+    
+}
+
+.flexbox-item3 {height: 100px;
+}
+
+.flexbox-item4 {height: 100px;
+    
+}
+.flexbox-item5 {height: 100px;
+    
+}
+.flexbox-item6 {height: 100px;
+    
+}
+.flexbox-item7 {height: 100px;
+
+}
+.flexbox-item8 {height: 500px;
+    width: 450px;
+    margin-top: 50px;
+    margin-bottom: 6%;
+}
+.flexbox-item9 {height: 500px;
+    width: 250px;
+    margin-top: 50px;
+}
+.flexbox-item10 {height: 500px;
+    width: 600px;
+    margin-top: 50px;
+}
+.flexbox-item13{
+    margin-top: 50px;
+}
+.flexbox-item14{
+    margin-top: 50px;
+    width: 700px;
+    margin-left: 150px   ;
+}
+.flexbox-item15{
+    margin-top: 40px;
+}
+.flexbox-item16{
+    margin-top: 40px;
+    width: 700px;
+    margin-left: 150px 
+}
+.flexbox-item17{
+    margin-top: 40px;
+}
+.flexbox-item18{
+    margin-top: 40px;
+    width: 700px;
+    margin-left: 150px 
+}
+.flexbox-item19{
+    margin-top: 40px;
+    margin-bottom: 75px;
+}
+.flexbox-item20{
+    margin-top: 40px;
+    width: 700px;
+    margin-left: 150px 
+    
+}
